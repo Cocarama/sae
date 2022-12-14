@@ -1,0 +1,17 @@
+nav img {
+    height: 150px;
+}
+
+nav {
+    background-color: lightgray;
+}
+
+nav li {
+    list-style: none;
+    text-align: center;
+    display: inline;
+    padding: 20px;
+    background-color: #3179e4;
+    border-radius: 30px;
+    box-shadow: 2px 2px 3px black;
+  }
