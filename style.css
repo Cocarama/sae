@@ -60,3 +60,8 @@ footer{
     margin-top:10px;
     justify-content: right;
 }
+
+a{
+    list-style: none;
+    
+}    
