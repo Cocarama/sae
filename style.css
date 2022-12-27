@@ -80,3 +80,14 @@ a{
 .resaux{
     margin-right: 30px;
 }
+
+.eco{
+    height: 800px;
+    display: flex;
+}
+
+.eco aside{
+    text-align: left;
+    margin:150px;
+    font-size: 20px;
+}
