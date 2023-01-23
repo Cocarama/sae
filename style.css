@@ -309,3 +309,7 @@ a{
     width: 200px;
     margin-left: 250px;
 }
+
+footer p{
+    color: lightgray;
+}
