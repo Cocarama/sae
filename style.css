@@ -20,7 +20,7 @@ nav li {
     transition: transform .1s;  
     }
 
-li:hover {
+nav li:hover {
     list-style: none;
     text-align: center;
     display: inline;
