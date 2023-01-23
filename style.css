@@ -230,8 +230,9 @@ a{
     padding: 0px 50px 50px 50px;
     margin-top: 30px;
     width: 700px;
-    margin-left: 525px;        transition: transform .1s;
-
+    margin-left: 525px;
+    margin-bot: 30px;
+    transition: transform .1s;
     border: thick double rgba(244,104,55,255);    
 }
 
